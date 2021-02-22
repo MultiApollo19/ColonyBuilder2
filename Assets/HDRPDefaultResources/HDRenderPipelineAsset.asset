@@ -151,7 +151,11 @@ MonoBehaviour:
   m_RenderPipelineResources: {fileID: 11400000, guid: 3ce144cff5783da45aa5d4fdc2da14b7,
     type: 2}
   m_RenderPipelineRayTracingResources: {fileID: 0}
+<<<<<<< Updated upstream
   m_DefaultVolumeProfile: {fileID: 11400000, guid: 8956490a8c6d0c74cb142481c65e2ac6,
+=======
+  m_DefaultVolumeProfile: {fileID: 11400000, guid: 17ec94df8427e1f4a8e102da96045370,
+>>>>>>> Stashed changes
     type: 2}
   m_DefaultLookDevProfile: {fileID: 0}
   m_RenderingPathDefaultCameraFrameSettings:
@@ -231,7 +235,7 @@ MonoBehaviour:
       reflectionCubemapSize: 256
       reflectionCacheCompressed: 0
       planarReflectionCacheCompressed: 0
-      skyReflectionSize: 256
+      skyReflectionSize: 512
       skyLightingOverrideLayerMask:
         serializedVersion: 2
         m_Bits: 0
@@ -316,7 +320,7 @@ MonoBehaviour:
       ChromaticAberrationMaxSamples: 03000000060000000c000000
     lightSettings:
       useContactShadow:
-        m_Values: 
+        m_Values: 000000
         m_SchemaId:
           m_Id: 
     maximumLODLevel:
@@ -345,8 +349,8 @@ MonoBehaviour:
   m_DefaultMaterialQualityLevel: 4
   diffusionProfileSettings: {fileID: 0}
   diffusionProfileSettingsList:
-  - {fileID: 11400000, guid: 7996992ba3bc1444c86541f61c39b85a, type: 2}
-  - {fileID: 11400000, guid: b3f986e95f00a45409089a6f63e0b87a, type: 2}
+  - {fileID: 11400000, guid: 4ab60a96348699d4184efd09131fcc8e, type: 2}
+  - {fileID: 11400000, guid: b473402c29e94df4ba4e115bf413af87, type: 2}
   beforeTransparentCustomPostProcesses: []
   beforePostProcessCustomPostProcesses: []
   afterPostProcessCustomPostProcesses: []

@@ -1445,7 +1445,11 @@ MeshRenderer:
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
+<<<<<<< Updated upstream
   - {fileID: 2100000, guid: 0fab2858778e42849ab0ca307cd8161f, type: 2}
+=======
+  - {fileID: 2100000, guid: 86f5e7314df60e041a299e3b93d3262b, type: 2}
+>>>>>>> Stashed changes
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1634,7 +1638,6 @@ GameObject:
   - component: {fileID: 8324918291036646454}
   - component: {fileID: 3635349915650336810}
   - component: {fileID: 8594835122966198851}
-  - component: {fileID: 8066916059884437574}
   m_Layer: 0
   m_Name: cube
   m_TagString: Untagged
@@ -1682,7 +1685,11 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
+<<<<<<< Updated upstream
   - {fileID: 2100000, guid: 0fab2858778e42849ab0ca307cd8161f, type: 2}
+=======
+  - {fileID: 2100000, guid: 86f5e7314df60e041a299e3b93d3262b, type: 2}
+>>>>>>> Stashed changes
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1703,19 +1710,6 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!65 &8066916059884437574
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7816553126860365165}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 0
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &8733352498742907350
 GameObject:
   m_ObjectHideFlags: 0
@@ -1947,7 +1941,11 @@ GameObject:
   - component: {fileID: 8809970749707789995}
   - component: {fileID: 2994938385339378435}
   - component: {fileID: 4642837086232176328}
+<<<<<<< Updated upstream
   - component: {fileID: 2619430490878709701}
+=======
+  - component: {fileID: 9064081919278729197}
+>>>>>>> Stashed changes
   m_Layer: 0
   m_Name: Camera
   m_TagString: MainCamera
@@ -1983,7 +1981,7 @@ Camera:
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
-  m_SensorSize: {x: 36, y: 24}
+  m_SensorSize: {x: 24.89, y: 18.66}
   m_LensShift: {x: 0, y: 0}
   m_FocalLength: 50
   m_NormalizedViewPortRect:
@@ -2007,7 +2005,11 @@ Camera:
   m_TargetEye: 3
   m_HDR: 0
   m_AllowMSAA: 0
+<<<<<<< Updated upstream
   m_AllowDynamicResolution: 1
+=======
+  m_AllowDynamicResolution: 0
+>>>>>>> Stashed changes
   m_ForceIntoRT: 0
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
@@ -2033,7 +2035,11 @@ SphereCollider:
   serializedVersion: 2
   m_Radius: 0.5
   m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream
 --- !u!114 &2619430490878709701
+=======
+--- !u!114 &9064081919278729197
+>>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2114,7 +2120,11 @@ MonoBehaviour:
     m_Anamorphism: 0
   flipYMode: 0
   fullscreenPassthrough: 0
+<<<<<<< Updated upstream
   allowDynamicResolution: 1
+=======
+  allowDynamicResolution: 0
+>>>>>>> Stashed changes
   customRenderingSettings: 0
   invertFaceCulling: 0
   probeLayerMask:

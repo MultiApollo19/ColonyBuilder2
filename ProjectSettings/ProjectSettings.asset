@@ -133,7 +133,10 @@ PlayerSettings:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+<<<<<<< Updated upstream
   - {fileID: 0}
+=======
+>>>>>>> Stashed changes
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -178,7 +181,11 @@ PlayerSettings:
   applicationIdentifier:
     Standalone: com.WickedHamsters.ColonyBuilder2
   buildNumber:
+<<<<<<< Updated upstream
     Standalone: 80
+=======
+    Standalone: 74
+>>>>>>> Stashed changes
     iPhone: 0
     tvOS: 0
   AndroidBundleVersionCode: 1
